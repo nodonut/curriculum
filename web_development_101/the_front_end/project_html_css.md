@@ -2840,7 +2840,9 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [Courgette's Solution (Easy)](https://github.com/bing0i/google-homepage) - [View in Browser](https://bing0i.github.io/google-homepage/)
 * [Shwig's Solution (Easy)](https://github.com/Shwig/google-homepage) - [View in Browser](https://Shwig.github.io/google-homepage/)
 * [Shwig's Solution (Difficult)](https://github.com/Shwig/google-resultspage) - [View in Browser](https://Shwig.github.io/google-resultspage/)
+* [nodonut's Solution (Easy)](https://nodonut.github.io/google-homepage/) - [View in Browser](https://nodonut.github.io/google-homepage/)
 </details>
+
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
